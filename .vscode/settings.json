@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [".", "..", "src"],  // Add the path to the lambdamart package
+    "python.linting.enabled": false,
+    "python.linting.pylintEnabled": false
+}
