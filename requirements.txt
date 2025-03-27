@@ -1,0 +1,11 @@
+# Core dependencies for LambdaMART implementation
+# Last updated: <date>
+
+# requirements.txt
+numpy==2.2.4
+scikit-learn==1.6.1
+pandas==2.2.3
+scipy==1.15.2
+
+# requirements-dev.txt
+pytest==8.3.5

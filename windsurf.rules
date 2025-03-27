@@ -1,0 +1,5 @@
+<testing>
+  Use pytest as the default test runner.
+  Always enable verbose output (-v) and live logging (--log-cli-level=DEBUG).
+  Skip tests marked as @pytest.mark.slow unless explicitly requested.
+</testing>
